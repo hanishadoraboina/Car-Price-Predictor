@@ -141,6 +141,6 @@ This project is intended for educational and learning purposes.
 
 ## 👩‍💻 Author
 
-**Hani**
+**Hanisha doraboina**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/hanishadoraboina
